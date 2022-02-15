@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Student project image.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-341-introduction-to-photography-fall-2002/f2a24cad73abd9a7f285b904797f8351_hsu11.jpg
+file: /media/courses/4-341-introduction-to-photography-fall-2002/f2a24cad73abd9a7f285b904797f8351_hsu11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: hsu11.jpg
 uid: f2a24cad-73ab-d9a7-f285-b904797f8351

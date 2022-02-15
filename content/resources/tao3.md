@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Photo of photos in a tank
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-341-introduction-to-photography-fall-2002/833846d75e12b19ae08b28431d71f89c_tao3.JPG
+file: /media/courses/4-341-introduction-to-photography-fall-2002/833846d75e12b19ae08b28431d71f89c_tao3.JPG
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: tao3.JPG
 uid: 833846d7-5e12-b19a-e08b-28431d71f89c

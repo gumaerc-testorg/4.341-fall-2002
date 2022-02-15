@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Projects: Student projects on Visual Arts Program'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-341-introduction-to-photography-fall-2002/5e0f0ae755bc7f94b76d8987f19fb019_simonhalpern.pdf
+file: /media/courses/4-341-introduction-to-photography-fall-2002/5e0f0ae755bc7f94b76d8987f19fb019_simonhalpern.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: simonhalpern.pdf
 uid: 5e0f0ae7-55bc-7f94-b76d-8987f19fb019
