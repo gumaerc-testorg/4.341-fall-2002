@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Document
 title: andrewcarvey.pdf
 uid: 70d578d1-b246-7a30-eb15-945b9d0bab9a

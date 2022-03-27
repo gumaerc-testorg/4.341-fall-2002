@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: tao16.jpg
 uid: c2932fe9-1829-c1eb-3e68-b9c4fad429a7

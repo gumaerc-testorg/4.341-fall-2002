@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: halpern4.JPG
 uid: 8362966f-c92a-59b5-524f-b3925552d038

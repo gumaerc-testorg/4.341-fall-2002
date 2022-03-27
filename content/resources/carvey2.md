@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: carvey2.JPG
 uid: a9432a18-eae0-19dc-8d04-bb66107b1711

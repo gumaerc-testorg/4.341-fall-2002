@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Document
 title: charissemassay.pdf
 uid: f84cdc3f-db87-3898-0007-a1d176a5e226

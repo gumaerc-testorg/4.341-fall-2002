@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Other
 title: StudentWorknew.zip
 uid: 875fb720-1ccb-d6db-d9a8-1f17045e149f

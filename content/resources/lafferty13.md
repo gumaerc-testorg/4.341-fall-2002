@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: lafferty13.jpg
 uid: e02fd01b-9fa6-0e2d-38b4-35c05d360c3c

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: massey13.jpg
 uid: 128d303a-5168-2e49-2cbe-e148fbb1d3dc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Document
 title: lauranoren.pdf
 uid: cb5a4599-c966-c37e-0e90-c59e941e0f25

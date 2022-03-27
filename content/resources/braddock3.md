@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: braddock3.JPG
 uid: 1ae9b7e8-891f-c1d3-ef81-a7cbb0bc9176
