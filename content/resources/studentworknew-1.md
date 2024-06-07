@@ -2,6 +2,7 @@
 content_type: resource
 description: Photography - Visual Arts Program
 file: /courses/4-341-introduction-to-photography-fall-2002/875fb7201ccbd6dbd9a81f17045e149f_StudentWorknew.zip
+file_size: 4061920
 file_type: application/zip
 learning_resource_types:
 - Projects

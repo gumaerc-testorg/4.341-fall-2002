@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project image.
 file: /courses/4-341-introduction-to-photography-fall-2002/56adc3fc57eaf199daccbb84d688c193_halpern3.JPG
+file_size: 31300
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of female doll
 file: /courses/4-341-introduction-to-photography-fall-2002/ed83289f4a8832e56b6c01951ef16356_lafferty15.jpg
+file_size: 1555
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-341-introduction-to-photography-fall-2002/bf9d17685269d5095788875c28f64c22_StudentWorknew.pdf
+file_size: 4226120
 file_type: application/pdf
 learning_resource_types:
 - Projects

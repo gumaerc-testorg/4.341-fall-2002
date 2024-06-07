@@ -2,6 +2,7 @@
 content_type: resource
 description: Title slide
 file: /courses/4-341-introduction-to-photography-fall-2002/4badda6862adc12fb2d2d93fde46dc63_tao1.JPG
+file_size: 3477
 file_type: image/jpeg
 image_metadata:
   caption: ''
