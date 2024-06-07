@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Slide 4: I am a drag queen, and I smoke marijuana [Thumbnail]'
 file: /courses/4-341-introduction-to-photography-fall-2002/a6adea9357612ecfd124d62ee48d2954_massey14.jpg
+file_size: 1280
 file_type: image/jpeg
 image_metadata:
   caption: ''

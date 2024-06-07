@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Slide 3: I am a pre-school teacher, and I smoke marijuana'
 file: /courses/4-341-introduction-to-photography-fall-2002/18f830a92d7623dafc178a7207925c30_massey3.JPG
+file_size: 27934
 file_type: image/jpeg
 image_metadata:
   caption: ''

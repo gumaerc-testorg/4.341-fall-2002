@@ -2,6 +2,7 @@
 content_type: resource
 description: Project Description
 file: /courses/4-341-introduction-to-photography-fall-2002/422fb5f584c3d15866032b0dd57baa8f_lafferty2.JPG
+file_size: 37595
 file_type: image/jpeg
 image_metadata:
   caption: ''

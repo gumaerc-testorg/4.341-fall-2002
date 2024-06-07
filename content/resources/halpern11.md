@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Student project image: A Conversation About Light'
 file: /courses/4-341-introduction-to-photography-fall-2002/2a07d57d5de4fa9ba7d10780cadc781f_halpern11.jpg
+file_size: 667
 file_type: image/jpeg
 image_metadata:
   caption: ''

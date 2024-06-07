@@ -2,6 +2,7 @@
 content_type: resource
 description: Slide 3
 file: /courses/4-341-introduction-to-photography-fall-2002/1ae9b7e8891fc1d3ef81a7cbb0bc9176_braddock3.JPG
+file_size: 41785
 file_type: image/jpeg
 image_metadata:
   caption: ''

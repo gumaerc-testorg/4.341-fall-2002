@@ -2,6 +2,7 @@
 content_type: resource
 description: Portrait of a woman
 file: /courses/4-341-introduction-to-photography-fall-2002/af53dd4fb0b93ad85ea1a9dbb008c9b1_shnayderman6.JPG
+file_size: 29729
 file_type: image/jpeg
 image_metadata:
   caption: ''
