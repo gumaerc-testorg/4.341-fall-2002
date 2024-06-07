@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Projects: Student projects on Visual Arts Program'
 file: /courses/4-341-introduction-to-photography-fall-2002/5e0f0ae755bc7f94b76d8987f19fb019_simonhalpern.pdf
+file_size: 1951276
 file_type: application/pdf
 learning_resource_types:
 - Projects

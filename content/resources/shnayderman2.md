@@ -2,6 +2,7 @@
 content_type: resource
 description: Project Description
 file: /courses/4-341-introduction-to-photography-fall-2002/a74d574cfd6ce591dfb3f1054888eb9b_shnayderman2.JPG
+file_size: 68782
 file_type: image/jpeg
 image_metadata:
   caption: ''

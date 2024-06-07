@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of photos in a tank
 file: /courses/4-341-introduction-to-photography-fall-2002/44250bb9682b378e201241ae50fab85b_tao5.JPG
+file_size: 24307
 file_type: image/jpeg
 image_metadata:
   caption: ''

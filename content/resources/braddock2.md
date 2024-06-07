@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Slide 2: Project Description'
 file: /courses/4-341-introduction-to-photography-fall-2002/d6564da96b4955e43fb589e5905307ac_braddock2.JPG
+file_size: 24208
 file_type: image/jpeg
 image_metadata:
   caption: ''

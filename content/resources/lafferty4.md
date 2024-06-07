@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of young man jumping at the shore
 file: /courses/4-341-introduction-to-photography-fall-2002/1a604a3483eeab69cacb5eb33ff76ecd_lafferty4.JPG
+file_size: 24602
 file_type: image/jpeg
 image_metadata:
   caption: ''

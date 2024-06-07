@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Slide 1: Stephanie Hsu: Untitled'
 file: /courses/4-341-introduction-to-photography-fall-2002/a15da6732524a37b71cc3369eeab25fd_hsu1.JPG
+file_size: 4270
 file_type: image/jpeg
 image_metadata:
   caption: ''

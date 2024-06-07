@@ -2,6 +2,7 @@
 content_type: resource
 description: Photos of person and eight objects, with commentary
 file: /courses/4-341-introduction-to-photography-fall-2002/2972f8611b411cd6a48923c8ddbde183_noren15.jpg
+file_size: 1335
 file_type: image/jpeg
 image_metadata:
   caption: ''

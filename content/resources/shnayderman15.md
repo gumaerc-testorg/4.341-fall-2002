@@ -2,6 +2,7 @@
 content_type: resource
 description: Portrait of a man
 file: /courses/4-341-introduction-to-photography-fall-2002/4bf529d02d9551a8fa60aef4eaac1e4d_shnayderman15.jpg
+file_size: 1944
 file_type: image/jpeg
 image_metadata:
   caption: ''
