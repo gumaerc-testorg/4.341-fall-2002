@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide 6
-file: /courses/4-341-introduction-to-photography-fall-2002/42e3c9f71ece4aa3d0312daeaf049002_hsu6.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/42e3c9f71ece4aa3d0312daeaf049002_hsu6.JPG
 file_size: 21786
 file_type: image/jpeg
 image_metadata:
