@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Title slide
-file: /courses/4-341-introduction-to-photography-fall-2002/b3ee55b60f8e0d105f0a62e74130b0e3_shnayderman1.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/b3ee55b60f8e0d105f0a62e74130b0e3_shnayderman1.JPG
 file_size: 4916
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 2: Project Description [Thumbnail]'
-file: /courses/4-341-introduction-to-photography-fall-2002/47770afb94310544219963608395c543_braddock12.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/47770afb94310544219963608395c543_braddock12.jpg
 file_size: 1147
 file_type: image/jpeg
 image_metadata:
