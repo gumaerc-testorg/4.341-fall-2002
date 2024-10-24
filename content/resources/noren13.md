@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photos of person and eight objects, with commentary
-file: /courses/4-341-introduction-to-photography-fall-2002/49c84ece163c6176e13850275a763694_noren13.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/49c84ece163c6176e13850275a763694_noren13.jpg
 file_size: 1465
 file_type: image/jpeg
 image_metadata:

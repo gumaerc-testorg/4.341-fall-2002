@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 2: [Project description]'
-file: /courses/4-341-introduction-to-photography-fall-2002/97d7b31f3dc108acb7b757117fe29d48_hsu2.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/97d7b31f3dc108acb7b757117fe29d48_hsu2.JPG
 file_size: 25416
 file_type: image/jpeg
 image_metadata:

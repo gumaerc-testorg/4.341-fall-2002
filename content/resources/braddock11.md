@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 1: Jon Braddock: I Photograph Everything I Eat [Thumbnail]'
-file: /courses/4-341-introduction-to-photography-fall-2002/01156be61d8455858a119aefc263fae8_braddock11.jpg
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/01156be61d8455858a119aefc263fae8_braddock11.jpg
 file_size: 737
 file_type: image/jpeg
 image_metadata:

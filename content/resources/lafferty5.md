@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of female doll
-file: /courses/4-341-introduction-to-photography-fall-2002/bdf8c138c96c9c252d6a3dce134114e2_lafferty5.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/bdf8c138c96c9c252d6a3dce134114e2_lafferty5.JPG
 file_size: 24195
 file_type: image/jpeg
 image_metadata:
