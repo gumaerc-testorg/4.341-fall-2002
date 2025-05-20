@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Title slide
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/e1ddbbc0576aeaf9fe66599eaf42b79c_lafferty1.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/e1ddbbc0576aeaf9fe66599eaf42b79c_lafferty1.JPG
 file_size: 4018
 file_type: image/jpeg
 image_metadata:

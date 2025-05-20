@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Projects: Student projects on Visual Arts Program'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/7de6b970711d65e1904af1bc0611fde8_rantao.pdf
+file: /courses/4-341-introduction-to-photography-fall-2002/7de6b970711d65e1904af1bc0611fde8_rantao.pdf
 file_size: 488033
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 2: I am a filmmaker, and I smoke marijuana [Thumbnail]'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/7c97cdc4c9adb5bfeb5c57d5d6c5c921_massey12.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/7c97cdc4c9adb5bfeb5c57d5d6c5c921_massey12.jpg
 file_size: 1367
 file_type: image/jpeg
 image_metadata:

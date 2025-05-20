@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 6: I design airplanes, and I smoke marijuana'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/d88e59bc7d261ba7e7bcc4e48a8fcd3d_massey6.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/d88e59bc7d261ba7e7bcc4e48a8fcd3d_massey6.JPG
 file_size: 22578
 file_type: image/jpeg
 image_metadata:

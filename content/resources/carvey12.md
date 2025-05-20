@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Description of the student project.
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/b0bc129eceb07cf1783bb1d0e67ad29b_carvey12.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/b0bc129eceb07cf1783bb1d0e67ad29b_carvey12.jpg
 file_size: 2427
 file_type: image/jpeg
 image_metadata:

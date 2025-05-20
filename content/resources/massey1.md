@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 1: Charisse Massay: Untitled'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/cb21260a66a10ea7ad468cfed53becd2_massey1.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/cb21260a66a10ea7ad468cfed53becd2_massey1.JPG
 file_size: 4316
 file_type: image/jpeg
 image_metadata:

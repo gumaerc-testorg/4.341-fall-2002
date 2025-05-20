@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Portrait of a man
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/979773125f522278a8ce86f6770069a6_shnayderman14.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/979773125f522278a8ce86f6770069a6_shnayderman14.jpg
 file_size: 1745
 file_type: image/jpeg
 image_metadata:
