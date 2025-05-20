@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of a young man saluting
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/51b748f61af81e7c69dd4910bc703fce_lafferty6.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/51b748f61af81e7c69dd4910bc703fce_lafferty6.JPG
 file_size: 18788
 file_type: image/jpeg
 image_metadata:

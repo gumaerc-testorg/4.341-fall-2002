@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 3: I am a pre-school teacher, and I smoke marijuana [Thumbnail]'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/128d303a51682e492cbee148fbb1d3dc_massey13.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/128d303a51682e492cbee148fbb1d3dc_massey13.jpg
 file_size: 1522
 file_type: image/jpeg
 image_metadata:

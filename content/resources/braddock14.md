@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide 4 [Thumbnail]
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/2e9bafc8787b844d24000873f9a93834_braddock14.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/2e9bafc8787b844d24000873f9a93834_braddock14.jpg
 file_size: 2018
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of young man jumping at the shore
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/fe479732c69b7bf84e275dd91f5e0727_lafferty14.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/fe479732c69b7bf84e275dd91f5e0727_lafferty14.jpg
 file_size: 1485
 file_type: image/jpeg
 image_metadata:

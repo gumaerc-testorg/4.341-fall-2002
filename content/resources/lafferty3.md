@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of sneaker on leaves
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/101a92e10e9438b3951a06e500c41e4e_lafferty3.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/101a92e10e9438b3951a06e500c41e4e_lafferty3.JPG
 file_size: 45084
 file_type: image/jpeg
 image_metadata:
