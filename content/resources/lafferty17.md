@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of little boy with dolls
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/275ec26680b0fbb75e7a6975dca2467b_lafferty17.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/275ec26680b0fbb75e7a6975dca2467b_lafferty17.jpg
 file_size: 1514
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 4: I am a drag queen, and I smoke marijuana'
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/646dd18d23417f686505004e0f7d6003_massey4.JPG
+file: /courses/4-341-introduction-to-photography-fall-2002/646dd18d23417f686505004e0f7d6003_massey4.JPG
 file_size: 23440
 file_type: image/jpeg
 image_metadata:

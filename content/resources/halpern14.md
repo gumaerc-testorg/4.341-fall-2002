@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project image.
-file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/5c3bab31658c4eb288f6ff73cb34b539_halpern14.jpg
+file: /courses/4-341-introduction-to-photography-fall-2002/5c3bab31658c4eb288f6ff73cb34b539_halpern14.jpg
 file_size: 1796
 file_type: image/jpeg
 image_metadata:
