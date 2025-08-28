@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Portrait of a woman
-file: /courses/4-341-introduction-to-photography-fall-2002/6d344c00008cdc10572f1d12f6c3231d_shnayderman3.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/6d344c00008cdc10572f1d12f6c3231d_shnayderman3.JPG
 file_size: 24770
 file_type: image/jpeg
 image_metadata:
