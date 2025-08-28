@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of photos in a tank
-file: /courses/4-341-introduction-to-photography-fall-2002/4c3695527772ccd8b5d59a0c0e98560a_tao6.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/4c3695527772ccd8b5d59a0c0e98560a_tao6.JPG
 file_size: 49148
 file_type: image/jpeg
 image_metadata:

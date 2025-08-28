@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Slide 5: I am a housewife, and I smoke marijuana'
-file: /courses/4-341-introduction-to-photography-fall-2002/dc3ba908a67a38b1c010f6d670f2b228_massey5.JPG
+file: /ol-ocw-studio-app/courses/4-341-introduction-to-photography-fall-2002/dc3ba908a67a38b1c010f6d670f2b228_massey5.JPG
 file_size: 25852
 file_type: image/jpeg
 image_metadata:
